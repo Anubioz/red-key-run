@@ -9,4 +9,4 @@ I just find the red key incredibly fun to use and traveling and more rooms to ab
 Anyway, if someone could make that as a simple mod you'd be amazing. Pedestal means any character or could be entirely skipped and just gives an option on how youd like to try your run.
 
 ## License
-[MIT]()
+[MIT](https://github.com/MochicStudio/red-key-run/blob/master/LICENSE)
